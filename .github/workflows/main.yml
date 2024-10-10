@@ -40,5 +40,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          snake_color: '#eb1f6a'
+          hide_stack: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
