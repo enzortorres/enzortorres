@@ -31,6 +31,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            snake_color: '#eb1f6a'
+            hide_stack: true
           
           
       # push the content of <build_dir> to a branch
@@ -40,7 +42,5 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          snake_color: '#eb1f6a'
-          hide_stack: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
