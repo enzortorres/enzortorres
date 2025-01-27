@@ -21,7 +21,7 @@
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         >
     </a>
-    <a href="mailto:matheusfolster14@hotmail.com">
+    <a href="mailto:enzortorres2005@gmail.com">
         <img 
             alt="E-mail" 
             title="Envie um e-mail" 
@@ -30,13 +30,6 @@
     </a>
 </p>
 
-<div align="center">
-    <a href="https://github.com/enzortorres">
-      <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzortorres&layout=compact&langs_count=16&theme=monokai"/>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=enzortorres&show_icons=true&theme=monokai&include_all_commits=true&count_private=true&hide=issues"/>
-    </a>
-</div>
-
 ### 📊 Estatísticas
 
 <p>
@@ -44,7 +37,7 @@
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=enzortorres&show_icons=true&theme=monokai&include_all_commits=true&locale=pt-br" 
   />
 
