@@ -6,6 +6,30 @@
 
 <br><br>
 
+<p align="left">
+    <a href="https://github.com/enzortorres?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/enzortorres?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/enzo-ribas-torres/">
+        <img 
+            alt="Perfil do LinkedIn"
+            title="LinkedIn pessoal"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        >
+    </a>
+    <a href="mailto:matheusfolster14@hotmail.com">
+        <img 
+            alt="E-mail" 
+            title="Envie um e-mail" 
+            src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+</p>
+
 <div align="center">
     <a href="https://github.com/enzortorres">
       <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzortorres&layout=compact&langs_count=16&theme=monokai"/>
@@ -13,8 +37,21 @@
     </a>
 </div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enzortorres/enzortorres/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enzortorres/enzortorres/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/enzortorres/enzortorres/output/github-contribution-grid-snake.svg">
-</picture>
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=enzortorres&show_icons=true&theme=monokai&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzortorres&theme=monokai&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
