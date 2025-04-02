@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=EB1F6A&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Enzo!)](https://git.io/typing-svg)
-
 <span align="justify">
     Meu estudo em programação começou em 2022, e em 2023 meu interesse se solidificou, levando-me a começar o curso de Sistemas de Informação no Centro Universitário La Salle no início do ano seguinte. Desde março de 2020, trabalho como pizzaiolo, uma experiência que me ensinou a importância do trabalho em equipe e da organização. Estou em busca de um estágio onde possa aplicar meus conhecimentos em tecnologia e contribuir de forma significativa. Estou entusiasmado para enfrentar novos desafios e crescer na área.
 </span>
