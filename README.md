@@ -22,7 +22,7 @@ Estagiário de Engenharia de Dados | Acadêmico de Sistemas de Informação
 
 ### 📝 Sobre Mim
 
-Atualmente cursando Sistemas de Informação e atuando como Estagiário de Engenharia de Dados, foco meu desenvolvimento na construção de pipelines eficientes e na automação de fluxos de trabalho. Tenho experiência prática com o ecossistema de dados (Python, SQL, Airflow, Clickhouse, DBT, Docker e Power BI) e automações com n8n. Busco constantemente aplicar tecnologia para gerar valor e enfrentar desafios complexos na arquitetura de dados.
+Atualmente cursando Sistemas de Informação e atuando como Estagiário de Engenharia de Dados, foco meu desenvolvimento na construção de pipelines eficientes e na automação de fluxos de trabalho. Tenho experiência prática com o ecossistema de dados (Python, SQL, Airflow, Clickhouse, DBT, Docker e Power BI) e automações com n8n.
 
 ---
 
