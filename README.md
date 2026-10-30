@@ -1,6 +1,6 @@
 # Olá, eu sou o Enzo! 👋
 
-Estagiário de Engenharia de Dados | Acadêmico de Sistemas de Informação
+Engenharia de Dados | Acadêmico de Sistemas de Informação
 
 
 <a href="https://www.linkedin.com/in/enzo-ribas-torres/">
