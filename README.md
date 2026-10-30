@@ -1,6 +1,6 @@
 # Olá, eu sou o Enzo! 👋
 
-Engenharia de Dados | Acadêmico de Sistemas de Informação
+Engenheiro de Dados | Acadêmico de Sistemas de Informação
 
 
 <a href="https://www.linkedin.com/in/enzo-ribas-torres/">
@@ -22,7 +22,7 @@ Engenharia de Dados | Acadêmico de Sistemas de Informação
 
 ### 📝 Sobre Mim
 
-Atualmente cursando Sistemas de Informação e atuando como Estagiário de Engenharia de Dados, foco meu desenvolvimento na construção de pipelines eficientes e na automação de fluxos de trabalho. Tenho experiência prática com o ecossistema de dados (Python, SQL, Airflow, Clickhouse, DBT, Docker e Power BI) e automações com n8n.
+Atualmente cursando Sistemas de Informação e atuando como Engenheiro de Dados Jr, foco meu desenvolvimento na construção de pipelines eficientes e na automação de fluxos de trabalho. Tenho experiência prática com o ecossistema de dados (Python, SQL, Airflow, Clickhouse, DBT, Docker e Power BI) e automações com n8n.
 
 ---
 
